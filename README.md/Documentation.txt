@@ -1,0 +1,26 @@
+# Windows Server Domain Project
+
+## Overview
+This project demonstrates a Windows Server Active Directory domain setup with a client machine joined to the domain.
+
+## Components
+- Windows Server (Domain Controller)
+- Windows Client Machine
+- Active Directory Domain Services (AD DS)
+
+## Features
+- Domain creation
+- Client domain join
+- DNS configuration
+- IP configuration
+
+## Screenshots
+All screenshots are stored in the Screenshots folder.
+
+## Tools Used
+- Windows Server 2012
+- Windows 7
+- VirtualBox
+
+## Author
+Student IT Networking Project
